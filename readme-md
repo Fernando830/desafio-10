@@ -1,0 +1,17 @@
+# carpeta scss archivo \_variables.scss se modifico lo siguiente:
+
+## scss-docs-start theme-color-variables
+
+línea N°309 se agrego color morado
+
+## scss-docs-start theme-colors-map
+
+Línea N°322
+
+## Se cambio la tipografía base y se agrego la tipografía Roboto
+
+Línea N°548
+
+# Carpeta scss archivo bootstrap.scss se modifico lo siguiente:
+
+## se agrego línea de la 54 a la 58
